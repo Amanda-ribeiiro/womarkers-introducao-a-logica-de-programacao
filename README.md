@@ -24,18 +24,18 @@
 <details>
 <summary>Módulo 2: Introdução ao Portugol</summary>
   
-  * []()
-  * []()
-  * []()
-  * []()
-  * []()
-  * []()
-  * []()
-  * []()
-  * []()
-  * []()
-  * []()
-  * []()
+  * [Aula 01: Conhecendo o Portugol Web Studio](https://www.maismulheres.tech/courses/take/introducao-a-logica-de-programacao/lessons/37712055-aula-01-conhecendo-o-portugol-web-studio)
+  * [Aula 02: Estrutura básica de um programa e utilização de comentários](https://www.maismulheres.tech/courses/take/introducao-a-logica-de-programacao/lessons/37712048-aula-02-estrutura-basica-de-um-programa-e-utilizacao-de-comentarios)
+  * [Aula 03: Declarações de Variáveis e Tipos de Dados](https://www.maismulheres.tech/courses/take/introducao-a-logica-de-programacao/lessons/37712047-aula-03-declaracoes-de-variaveis-e-tipos-de-dados)
+  * [Aula 04: Declarações: Constante](https://www.maismulheres.tech/courses/take/introducao-a-logica-de-programacao/lessons/37712049-aula-04-declaracoes-constante)
+  * [Aula 05: Trabalhando com Funções](https://www.maismulheres.tech/courses/take/introducao-a-logica-de-programacao/lessons/37712050-aula-05-trabalhando-com-funcoes)
+  * [Aula 06: Entrada e Saída de Dados](https://www.maismulheres.tech/courses/take/introducao-a-logica-de-programacao/lessons/37712045-aula-06-entrada-e-saida-de-dados)
+  * [Aula 07: Função Escreva](https://www.maismulheres.tech/courses/take/introducao-a-logica-de-programacao/lessons/37712053-aula-07-funcao-escreva)
+  * [Aula 08: Função Leia](https://www.maismulheres.tech/courses/take/introducao-a-logica-de-programacao/lessons/37712052-aula-08-funcao-leia)
+  * [Aula 09: Função Limpa](https://www.maismulheres.tech/courses/take/introducao-a-logica-de-programacao/lessons/37712051-aula-09-funcao-limpa)
+  * [Aula 10: Criando uma função](https://www.maismulheres.tech/courses/take/introducao-a-logica-de-programacao/lessons/37712054-aula-10-criando-uma-funcao)
+  * [Aula 11: Revisão do módulo](https://www.maismulheres.tech/courses/take/introducao-a-logica-de-programacao/lessons/37712046-aula-11-revisao-do-modulo)
+  * [Exercícios para fixação de conteúdo](https://www.maismulheres.tech/courses/take/introducao-a-logica-de-programacao/pdfs/37818923-exercicios-para-fixacao-de-conteudo)
 </details>
 
 <details>
