@@ -61,8 +61,8 @@
   * [Aula 04: Exercício: Maioridade Penal](https://www.maismulheres.tech/courses/take/introducao-a-logica-de-programacao/lessons/37712098-aula-04-exercicio-maioridade-penal)
   * [Aula 05: Estrutura de Controle](https://www.maismulheres.tech/courses/take/introducao-a-logica-de-programacao/lessons/37712100-aula-05-estrutura-de-controle)
   * [Aula 06: Exercício: Calcular Média](https://www.maismulheres.tech/courses/take/introducao-a-logica-de-programacao/lessons/37712099-aula-06-exercicio-calcular-media)
-  * []()
-  * []()
+  * [Aula 07: Exercício: Criando Algoritmo de Auxílio Emergencial](https://www.maismulheres.tech/courses/take/introducao-a-logica-de-programacao/lessons/37712103-aula-07-exercicio-criando-algoritmo-de-auxilio-emergencial)
+  * [Exercícios para fixação de conteúdo](https://www.maismulheres.tech/courses/take/introducao-a-logica-de-programacao/pdfs/37818932-exercicios-para-fixacao-de-conteudo)
 </details>
 
 <details>
