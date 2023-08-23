@@ -20,7 +20,7 @@ Funções são sub-rotinas
 
 Entrada e saída de dados:
 
-```bash
+```portugol
 Escreva()
 Leia()
 Limpa()
@@ -31,7 +31,7 @@ Limpa()
 ## Aula 07: Função Escreva
 
 
-```bash
+```portugol
 Escreva()
 ```
 
@@ -39,7 +39,7 @@ Escreva()
 
 Obter dados que serão inseridos pelo usuário
 
-```bash
+```portugol
 Leia()
 ```
 
@@ -47,13 +47,13 @@ Leia()
 
 Limpa a tela de tudo que ficou pra trás do código `limpa()`
 
-```bash
+```portugol
 Limpa()
 ```
 
 ## Aula 10: Criando uma função
 
-````bash
+````portugol
 programa {
 	funcao inicio() {
 
@@ -88,7 +88,7 @@ programa {
 
 ![Alt text](image-4.png)
 
-````bash
+````portugol
 programa {
   funcao inicio() {
 
