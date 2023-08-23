@@ -41,26 +41,26 @@
 <details>
 <summary>Módulo 3: Expressões</summary>
   
-  * []()
-  * []()
-  * []()
-  * []()
-  * []()
-  * []()
-  * []()
-  * []()
-  * []()
+  * [Aula 01: Introdução ao Módulo e Operações](https://www.maismulheres.tech/courses/take/introducao-a-logica-de-programacao/lessons/37712086-aula-01-introducao-ao-modulo-e-operacoes)
+  * [Aula 02: Soma - Operadores Simples](https://www.maismulheres.tech/courses/take/introducao-a-logica-de-programacao/lessons/37712089-aula-02-soma-operadores-simples)
+  * [Aula 03: Subtração - Operadores Simples](https://www.maismulheres.tech/courses/take/introducao-a-logica-de-programacao/lessons/37712087-aula-03-subtracao-operadores-simples)
+  * [Aula 04: Multiplicação e Divisão - Operadores Simples](https://www.maismulheres.tech/courses/take/introducao-a-logica-de-programacao/lessons/37712088-aula-04-multiplicacao-e-divisao-operadores-simples)
+  * [Aula 05: Conceito de Expressões Matemáticas](https://www.maismulheres.tech/courses/take/introducao-a-logica-de-programacao/lessons/37712085-aula-05-conceito-de-expressoes-matematicas)
+  * [Aula 06: Demonstração de Expressões Matemáticas](https://www.maismulheres.tech/courses/take/introducao-a-logica-de-programacao/lessons/37712090-aula-06-demonstracao-de-expressoes-matematicas)
+  * [Aula 07: Conceito de Funções](https://www.maismulheres.tech/courses/take/introducao-a-logica-de-programacao/lessons/37712092-aula-07-conceito-de-funcoes)
+  * [Aula 08: Demonstração de Expressões Matemáticas](https://www.maismulheres.tech/courses/take/introducao-a-logica-de-programacao/lessons/37712091-aula-08-demonstracao-de-expressoes-matematicas)
+  * [Exercícios para fixação de conteúdo](https://www.maismulheres.tech/courses/take/introducao-a-logica-de-programacao/pdfs/37818927-exercicios-para-fixacao-de-conteudo)
 </details>
 
 <details>
 <summary>Módulo 4: Algoritmos Sequenciais e Estruturas de Controle</summary>
   
-  * []()
-  * []()
-  * []()
-  * []()
-  * []()
-  * []()
+  * [Aula 01: Operadores Relacionais](https://www.maismulheres.tech/courses/take/introducao-a-logica-de-programacao/lessons/37712102-aula-01-operadores-relacionais)
+  * [Aula 02: Programa de Score - Operadores Relacionais](https://www.maismulheres.tech/courses/take/introducao-a-logica-de-programacao/lessons/37712101-aula-02-programa-de-score-operadores-relacionais)
+  * [Aula 03: Introdução a Algoritmo Sequencial](https://www.maismulheres.tech/courses/take/introducao-a-logica-de-programacao/lessons/37712097-aula-03-introducao-a-algoritmo-sequencial)
+  * [Aula 04: Exercício: Maioridade Penal](https://www.maismulheres.tech/courses/take/introducao-a-logica-de-programacao/lessons/37712098-aula-04-exercicio-maioridade-penal)
+  * [Aula 05: Estrutura de Controle](https://www.maismulheres.tech/courses/take/introducao-a-logica-de-programacao/lessons/37712100-aula-05-estrutura-de-controle)
+  * [Aula 06: Exercício: Calcular Média](https://www.maismulheres.tech/courses/take/introducao-a-logica-de-programacao/lessons/37712099-aula-06-exercicio-calcular-media)
   * []()
   * []()
 </details>
