@@ -68,38 +68,38 @@
 <details>
 <summary>Módulo 5: Estruturas de Laços de Repetição</summary>
   
-  * []()
-  * []()
-  * []()
-  * []()
-  * []()
-  * []()
-  * []()
+  * [Aula 01: Apresentação Modulo e Introdução Estrutura do PARA](https://www.maismulheres.tech/courses/take/introducao-a-logica-de-programacao/lessons/37712137-aula-01-apresentacao-modulo-e-introducao-estrutura-do-para)
+  * [Aula 02: Estrutura de Repetição PARA - Algoritmo Tabuada](https://www.maismulheres.tech/courses/take/introducao-a-logica-de-programacao/lessons/37712132-aula-02-estrutura-de-repeticao-para-algoritmo-tabuada)
+  * [Aula 03: Estrutura de Repetição ENQUANTO](https://www.maismulheres.tech/courses/take/introducao-a-logica-de-programacao/lessons/37712134-aula-03-estrutura-de-repeticao-enquanto)
+  * [Aula 04: Contador Numérico com estrutura de repetição ENQUANTO](https://www.maismulheres.tech/courses/take/introducao-a-logica-de-programacao/lessons/37712133-aula-04-contador-numerico-com-estrutura-de-repeticao-enquanto)
+  * [Aula 05: Estrutura de Repetição FAÇA-ENQUANTO](https://www.maismulheres.tech/courses/take/introducao-a-logica-de-programacao/lessons/37712136-aula-05-estrutura-de-repeticao-faca-enquanto)
+  * [Aula 06: Criando verificador Idade Facebook com estrutura de repetição FAÇA-ENQUANTO](https://www.maismulheres.tech/courses/take/introducao-a-logica-de-programacao/lessons/37712135-aula-06-criando-verificador-idade-facebook-com-estrutura-de-repeticao-faca-enquanto)
+  * [Exercícios para fixação de conteúdo](https://www.maismulheres.tech/courses/take/introducao-a-logica-de-programacao/pdfs/37818941-exercicios-para-fixacao-de-conteudo)
 </details>
 
 <details>
 <summary>Módulo 6: Vetores e Matrizes</summary>
   
-  * []()
-  * []()
-  * []()
-  * []()
-  * []()
-  * []()
-  * []()
+  * [Aula 01: Fundamentos Estrutura de Dados II](https://www.maismulheres.tech/courses/take/introducao-a-logica-de-programacao/lessons/37712142-aula-01-fundamentos-estrutura-de-dados-ii)
+  * [Aula 02: Conhecendo Arrays e Vetores](https://www.maismulheres.tech/courses/take/introducao-a-logica-de-programacao/lessons/37712143-aula-02-conhecendo-arrays-e-vetores)
+  * [Aula 03: Criando algoritmo com índice vetorial](https://www.maismulheres.tech/courses/take/introducao-a-logica-de-programacao/lessons/37712145-aula-03-criando-algoritmo-com-indice-vetorial)
+  * [Aula 04: Conhecendo Matrizes](https://www.maismulheres.tech/courses/take/introducao-a-logica-de-programacao/lessons/37712141-aula-04-conhecendo-matrizes)
+  * [Aula 05: Criando um Algoritmo Linhas e Colunas](https://www.maismulheres.tech/courses/take/introducao-a-logica-de-programacao/lessons/37712140-aula-05-criando-um-algoritmo-linhas-e-colunas)
+  * [Aula 06: Estrutura Heterogênea - Registros](https://www.maismulheres.tech/courses/take/introducao-a-logica-de-programacao/lessons/37712144-aula-06-estrutura-heterogenea-registros)
+  * [Exercícios para fixação de conteúdo](https://www.maismulheres.tech/courses/take/introducao-a-logica-de-programacao/pdfs/37818950-exercicios-para-fixacao-de-conteudo)
 </details>
 
 
 <details>
 <summary>Módulo 7: Revisão de práticas</summary>
   
-  * []()
-  * []()
-  * []()
-  * []()
-  * []()
-  * []()
-  * []()
+  * [Exercício 01](https://www.maismulheres.tech/courses/take/introducao-a-logica-de-programacao/lessons/37712153-exercicio-01)
+  * [Exercício 02](https://www.maismulheres.tech/courses/take/introducao-a-logica-de-programacao/lessons/37712151-exercicio-02)
+  * [Exercício 03](https://www.maismulheres.tech/courses/take/introducao-a-logica-de-programacao/lessons/37712156-exercicio-03)
+  * [Exercício 04](https://www.maismulheres.tech/courses/take/introducao-a-logica-de-programacao/lessons/37712159-exercicio-04)
+  * [Exercício 05](https://www.maismulheres.tech/courses/take/introducao-a-logica-de-programacao/lessons/37712154-exercicio-05)
+  * [Exercício 06](https://www.maismulheres.tech/courses/take/introducao-a-logica-de-programacao/lessons/37712157-exercicio-06)
+  * [Exercício 07](https://www.maismulheres.tech/courses/take/introducao-a-logica-de-programacao/lessons/37712158-exercicio-07)
 </details>
 
 
