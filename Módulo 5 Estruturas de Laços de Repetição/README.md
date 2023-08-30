@@ -24,7 +24,7 @@
 
 ### Exercício 6
 
-[Exercício 6](image-5.png)
+![Exercício 6](image-5.png)
 
 ## 🔗 Links && Referências
 
