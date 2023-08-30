@@ -106,5 +106,7 @@
 <details>
 <summary>Feedback ao curso</summary>
   
-  * []()
+  * [Feedback ao curso](https://www.maismulheres.tech/courses/take/introducao-a-logica-de-programacao/surveys/38248141-avaliacao-do-curso)
 </details>
+
+#### [Certificado de conclusão 👩🏻‍🎓 ](https://www.maismulheres.tech/certificates/vm3waax7qo)
